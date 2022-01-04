@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<!--File Created By SMS Backup & Restore v10.15.004 on 03/01/2022 14:03:56-->
+<!--
+
+To view this file in a more readable format, visit https://synctech.com.au/view-backup/
+
+-->
+<smses count="1" backup_set="123456-1234-1234-1234-12345678900" backup_date="1641215035171" type="full">
+  <sms protocol="0" address="1234567890" date="1420979104000" type="1" subject="null" body="my test link is http://mytestlink.test" toa="null" sc_toa="null" service_center="null" read="1" status="-1" locked="0" date_sent="0" sub_id="-1" readable_date="01 janv. 2001 00:00:00" contact_name="(Unknown)" />
+</smses>
